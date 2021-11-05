@@ -1,0 +1,40 @@
+# include <iostream>
+
+
+usando el  espacio de nombres  std;
+
+plantilla <typename   T>
+
+clase  A {
+    T  dato;
+público:
+    A();
+    A);   
+     impresión vacía ();
+    
+    
+};
+
+plantilla <typename   T>
+A <T> :: A () {}
+plantilla <typename   T>
+A <T> :: A (T  d): dato (d) {}
+
+plantilla <typename   T>
+void  A <T> :: print () {
+    cout << dato << " \ n ";
+}
+
+
+
+
+
+// incluir  a.h
+
+
+int  main ()
+{
+    
+    
+    return  0;
+}
